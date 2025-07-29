@@ -8,6 +8,10 @@
     "export": "slidev export"
   },
   "dependencies": {
+    "@iconify-json/flat-color-icons": "^1.2.1",
+    "@iconify-json/logos": "^1.2.5",
+    "@iconify-json/openmoji": "^1.2.9",
+    "@iconify-json/twemoji": "^1.2.2",
     "@olzhas-adiyatov/slidev-addon-asciinema": "^0.1.11-fork.1",
     "@slidev/cli": "^51.8.2",
     "@slidev/theme-default": "latest",
